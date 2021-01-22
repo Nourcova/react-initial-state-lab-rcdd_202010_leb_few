@@ -1,1 +1,9 @@
-// your Bomb code here!
+class Bomb extends Component {
+   constructor(props) {
+     super(props);
+     this.state = {  }
+   }
+   render() { 
+     return (  );
+   }
+ }
